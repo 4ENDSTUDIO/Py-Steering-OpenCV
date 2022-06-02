@@ -8,5 +8,5 @@ use both your fists to lift the steering wheel
 1. pip install opencv_python
 2. pip install mediapipe
 
-**Thanks For *Orbit Future Academy* And
-**Thanks For Coach *Kuncahyo Setyo Nugroho**
+Thanks For *Orbit Future Academy* And
+Thanks For Coach *Kuncahyo Setyo Nugroho*
